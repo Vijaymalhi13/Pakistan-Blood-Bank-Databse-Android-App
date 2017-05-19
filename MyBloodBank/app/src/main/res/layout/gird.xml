@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#536DFE"
+    android:orientation="vertical"
+    android:scrollbarAlwaysDrawVerticalTrack="true">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="40dp"
+        android:layout_marginLeft="0dp"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:text="Save Human Life to Donate Blood"
+            android:layout_marginLeft="30dp"
+            android:textStyle="italic"
+            android:textSize="18dp"
+
+            />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="40dp"
+        android:layout_marginLeft="0dp"
+
+        >
+        <ImageView
+            android:layout_width="127dp"
+            android:layout_height="147dp"
+            android:src="@drawable/best"
+            android:layout_marginLeft="25dp"
+            android:id="@+id/donate"
+            />
+
+        <ImageView
+            android:layout_width="127dp"
+            android:layout_height="147dp"
+            android:src="@drawable/request"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/request"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        >
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#fff"
+            android:text="Donate Blood"
+            android:layout_marginLeft="25dp"
+            />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#fff"
+            android:text="Request Blood"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="10dp"
+            />
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="40dp"
+        android:layout_marginLeft="0dp"
+
+        >
+        <ImageView
+            android:layout_width="127dp"
+            android:layout_height="147dp"
+            android:src="@drawable/search"
+            android:layout_marginLeft="25dp"
+            android:id="@+id/search"
+            />
+
+        <ImageView
+            android:layout_width="127dp"
+            android:layout_height="147dp"
+            android:src="@drawable/bank"
+            android:layout_marginLeft="80dp"
+            android:id="@+id/emergency"
+            android:layout_marginRight="10dp"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        >
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#fff"
+            android:text="Search Blood"
+            android:layout_marginLeft="25dp"
+            />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#fff"
+            android:text="Blood Banks"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="10dp"
+            />
+
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

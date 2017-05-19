@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "319633696429",
+    "firebase_url": "https://bank-1af84.firebaseio.com",
+    "project_id": "bank-1af84",
+    "storage_bucket": "bank-1af84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319633696429:android:a445e79658a6f46c",
+        "android_client_info": {
+          "package_name": "com.example.vijay.mybloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319633696429-fmtjc2qmnvc46g1d557ii87iuvhb4r6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7I5A7cBCSKBoI_fdC7WnYbGdSezW8qU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

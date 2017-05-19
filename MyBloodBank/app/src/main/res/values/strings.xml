@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyBloodBank</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Ttitl">Generate Blood Request</string>
+    <string name="MainMenu">Main Menu</string>
+    <string name="Donor">Registered as Donor</string>
+    <string name="city">City Wise Donor</string>
+
+    <string-array name="group">
+        <item>Select BloodGroup</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+
+    </string-array>
+
+    <string-array name="city">
+        <item>Select City</item>
+        <item>Karachi</item>
+        <item>Islamabad</item>
+        <item>Lahore</item>
+        <item>Umerkot</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="age">
+        <item>Select Age</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+
+    </string-array>
+
+
+</resources>
